@@ -1,0 +1,24 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.1.2/rekha_0.1.2_windows_amd64.zip",
+            "bin": [
+                "rekha.exe",
+                "rekha-serve.exe"
+            ],
+            "hash": "d9258afb25995e48565ea5b01d4da9e9c6a47d3da1f83355df3441253b335923"
+        },
+        "arm64": {
+            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.1.2/rekha_0.1.2_windows_arm64.zip",
+            "bin": [
+                "rekha.exe",
+                "rekha-serve.exe"
+            ],
+            "hash": "2ca038c3193dd3847d0d59fdf9454833efe2ebc0f9d0bead689b948f06d2e4f0"
+        }
+    },
+    "homepage": "https://vexyl-ai.github.io/rekha/",
+    "license": "AGPL-3.0-or-later",
+    "description": "Raster to SVG tracer with gradient fills"
+}
