@@ -1,21 +1,21 @@
 {
-    "version": "0.2.1",
+    "version": "0.2.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.2.1/rekha_0.2.1_windows_amd64.zip",
+            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.2.2/rekha_0.2.2_windows_amd64.zip",
             "bin": [
                 "rekha.exe",
                 "rekha-serve.exe"
             ],
-            "hash": "03290c9b9b0aea2c2456b7f8f3c19f4526d29f458091f7e0d6000d22bf9db41d"
+            "hash": "e970a0de2d28fd519fcc80863b90d74145a696a285d7a49159e24b2551832050"
         },
         "arm64": {
-            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.2.1/rekha_0.2.1_windows_arm64.zip",
+            "url": "https://github.com/vexyl-ai/rekha/releases/download/v0.2.2/rekha_0.2.2_windows_arm64.zip",
             "bin": [
                 "rekha.exe",
                 "rekha-serve.exe"
             ],
-            "hash": "479d810f6d25e96572043153c9604c87d149225da42e165a6e7bdc57a2af74e2"
+            "hash": "872394898ba4cd81d4f5758405d9f348ae6683bf6f6b1710e5ae1430ed540505"
         }
     },
     "homepage": "https://vexyl-ai.github.io/rekha/",
